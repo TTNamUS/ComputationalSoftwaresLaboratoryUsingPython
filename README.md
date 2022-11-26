@@ -1,1 +1,1 @@
-# ComputationalSoftwaresLaboratoryUsingPython
+# Computational Softwares Laboratory Using Python
